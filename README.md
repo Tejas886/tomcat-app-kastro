@@ -22,4 +22,4 @@ Access via: `http://your-ec2-ip:8080/devops-training-portal`
 
 ---
 
-**Learn With KASTRO**
+**Learn With KASTROO**
